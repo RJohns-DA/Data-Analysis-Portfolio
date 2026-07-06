@@ -1,5 +1,6 @@
 # Welcome, my Name is Ryan,
-Below, I will be showing the different projects that I have completed as part of my Data Analyst training course, as well as any side projects I have done for my own personal knowledge.
+Below, you will find a variety of projects that I have completed as part of my Data Analyst training course, as well as any side projects I have done for my own personal knowledge.
+
 ---
 
 ### Topics Covered during my Training: 
