@@ -18,6 +18,9 @@ Below, you will find a variety of projects that I have completed as part of my D
 
 <img src="https://github.com/RJohns-DA/Data-Analysis-Portfolio/blob/4ca7e96709e57d1a12eae939c3a3d9f945d13cdc/Retail_Sales_Dataset.png" alt="Excel Table 1" style="width:50%; height:auto;"> <img src="https://github.com/RJohns-DA/Data-Analysis-Portfolio/blob/07520928b12eb151c22dca5634be77822dc9caa0/Sales_By_Age_and_Category.png" alt="Excel Table 2" style="width:40%; height:auto;">
 
+As well here below, making use of Excel PivotTables, PivotCharts and Slicers, we can incorporate visualisations for a wide selection of data, then use the built-in tools to drill down to specific criteria that we might want to investigate. For instance, shown here, we can see that Young Adult Male's are most predominantly buying clothing items, followed closely by Beauty products. However, changing the age range to Senior shows a dramatic increase in the purchase of Electronics over clothing and beauty. 
+<img src="https://github.com/RJohns-DA/Data-Analysis-Portfolio/blob/06ddb108096446687406322a5236fe69e148add6/PivotTables.png" alt="Excel Pivot Tables and Charts" style="width:100%; height:auto;">
+
 
 - [Tableau] 
 
