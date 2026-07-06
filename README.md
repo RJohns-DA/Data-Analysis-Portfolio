@@ -17,7 +17,7 @@ Below, you will find a variety of projects that I have completed as part of my D
 - [Excel] – Using the a retail sales dataset, we have a collection of listed sales for customers of a range of ages, across three different categories of product. Here, using a combination of conditional formatting and a SumIf statement, we are able to see the highest and lowest selling product categories across each age range, as well as the total sales figure from those categories. This would allow us to more directly promote specific products to specific age ranges, as we can tell they are more popular for that group.
 
 <img src="https://github.com/RJohns-DA/Data-Analysis-Portfolio/blob/4ca7e96709e57d1a12eae939c3a3d9f945d13cdc/Retail_Sales_Dataset.png
-" alt="Excel Table 1" width="150" height="100">
+" alt="Excel Table 1" width="300" height="200">
 
 ![Excel Table 2](/Sales_By_Age_and_Category.png)
 
