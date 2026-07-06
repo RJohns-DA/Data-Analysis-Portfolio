@@ -18,11 +18,13 @@ Below, you will find a variety of projects that I have completed as part of my D
 
 <img src="https://github.com/RJohns-DA/Data-Analysis-Portfolio/blob/4ca7e96709e57d1a12eae939c3a3d9f945d13cdc/Retail_Sales_Dataset.png" alt="Excel Table 1" style="width:50%; height:auto;"> <img src="https://github.com/RJohns-DA/Data-Analysis-Portfolio/blob/07520928b12eb151c22dca5634be77822dc9caa0/Sales_By_Age_and_Category.png" alt="Excel Table 2" style="width:40%; height:auto;">
 
-As well here below, making use of Excel PivotTables, PivotCharts and Slicers, we can incorporate visualisations for a wide selection of data, then use the built-in tools to drill down to specific criteria that we might want to investigate. For instance, shown here, we can see that Young Adult Male's are most predominantly buying clothing items, followed closely by Beauty products. However, changing the age range to Senior shows a dramatic increase in the purchase of Electronics over clothing and beauty. 
+- As well here below, making use of Excel PivotTables, PivotCharts and Slicers, we can incorporate visualisations for a wide selection of data, then use the built-in tools to drill down to specific criteria that we might want to investigate. For instance, shown here, we can see that Young Adult Male's are most predominantly buying clothing items, followed closely by Beauty products. However, changing the age range to Senior shows a dramatic increase in the purchase of Electronics over clothing and beauty. 
 <img src="https://github.com/RJohns-DA/Data-Analysis-Portfolio/blob/06ddb108096446687406322a5236fe69e148add6/PivotTables.png" alt="Excel Pivot Tables and Charts" style="width:100%; height:auto;">
 
+- [Tableau] Using Tableau we were able to inspect and clean a large dataset of Health statistics from aroudn the world. Tableau allowed us to create a wide variety of different visuals to help better understand this data without having to go through the thousands of rows from the dataset. Not only are these visuals useful for understanding the raw data at a glance, they are also live, meaning that any changes or updates made to the dataset will still be reflected in the visuals without needing to alter them. You can still see the live dashboard here now:<br>https://public.tableau.com/app/profile/ryan.johns7164/viz/GlobalHealthInsights_17803264327980/GlobalHealthDashboard
 
-- [Tableau] 
+<img src="https://github.com/RJohns-DA/Data-Analysis-Portfolio/blob/6d080be1a2868e398af01c09daa18bd241cc91fe/TableauCharts.png" alt="Health Insights Dashboard" style="width:100%; height:auto;">
+
 
 - [Power BI] 
 
