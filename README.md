@@ -3,7 +3,7 @@ Having originally studied HNC Computing at Bedford College, I decided to focus m
 
 ---
 
-### Topics Covered during my Training: 
+### Trained in: 
 
 - **Excel and data basics**: Manipulating, transforming and cleaning datasets in Excel, as well as creating PivotTables amd PivotCharts with interactive slicers.
 - **Python via Google Colab**: Using Python code and NumPy to perform logic functions, Pandas for manipulation of dataframes and CSV files, and Matplotlib and Seaborn for Data Visualisation.
@@ -12,7 +12,7 @@ Having originally studied HNC Computing at Bedford College, I decided to focus m
 
  ---
 
-### Projects I have completed: 
+### Training Projects: 
 **Retail Sales Breakdown**
 **Using Targeted Analytics to Understand Customer Trends**
 Using the a retail sales dataset, we have a collection of listed sales for customers of a range of ages, across three different categories of product. Here, using a combination of conditional formatting and a SumIf statement, we are able to see the highest and lowest selling product categories across each age range, as well as the total sales figure from those categories. This would allow us to more directly promote specific products to specific age ranges, as we can tell they are more popular for that group.
