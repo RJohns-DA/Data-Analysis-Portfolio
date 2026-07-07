@@ -46,12 +46,12 @@ The slicers created allow us to filter these charts based on:
 **Global Health Insights**<br/>
 *A Visual Summary of World Health* <br/>
 
-With this project, I have created a variety of different visualisations using Tableau to give a easily understood summary of different trends relating to global health statistics. Using datasets like this can give a good general understanding of certain aspects of life and health in different parts of the world, without having to go into deep research on each area directly. 
+With this project, I have created a variety of different visualisations using Tableau to give an easily understood summary of different trends relating to global health statistics. Using datasets like this can give a good general understanding of certain aspects of life and health in different parts of the world, without having to go into deep research on each area directly. 
 
 Using Tableau we were able to inspect and clean a large dataset for our use. With Tableau's expanded ability to to create a wide variety of different visuals to help better understand this data, we have a lot more options in how we can display it. With graphs displaying information such as life expectancy per continent and the top 5 countries with the highest average life expectancy over a 20 year timeframe, we can use these graphs to start drawing conclusions or points for further analysis.
 
 Similarly to with Excel, we have a set process for creating these types of Charts and Graphs:
-- Importing the raw dataset
+- Importing the raw dataset, containing 6000+ records
 - Cleaning the dataset and checking for any issues with datatypes
 - Deciding on what columns of information to analyse
 - Created a Line Graph, showing the change in top 5 countries with the highest average life expectancy over a 20 year timeframe
@@ -64,6 +64,8 @@ Similarly to with Excel, we have a set process for creating these types of Chart
 With the use of a dashboard, we have the entire summary of work all in one place, allowing for quick understanding of the required information. The dashboard is also live, meaning that any changes or updates made to the dataset will still be reflected in the visuals without needing to alter them. We can also add new data into the source if needed, to further develop the range that it covers.
 
 You can access the live dashboard here now: [Live Global Health Dashboard](https://public.tableau.com/app/profile/ryan.johns7164/viz/GlobalHealthInsights_17803264327980/GlobalHealthDashboard)
+
+The specific difficulties with this dataset came more from deciding on the best method to display the data. Even after choosing what type of graph or chart would be best to showcase the desired analysis, each axis needs to be looked at in terms of how to interpret the data being used. While an average can be used in a majority of cases, there are several as well that requrie a total sum instead, and deciding how and when to use these particular types of filters can massively change how the data is represented.
 
 <img src="Images/TableauCharts.png" alt="Health Insights Dashboard" style="width:100%; height:auto;">
 
