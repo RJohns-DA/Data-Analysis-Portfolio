@@ -1,6 +1,6 @@
 <img src="https://github.com/RJohns-DA/Data-Analysis-Portfolio/blob/0d6c487f1a815698f600be4b5a487c796b5a5731/PictureBanner.png" alt="Profile Banner" style="width:100%; height:auto;"><br/>
 # Ryan Johns, Data Analyst Portfolio
-Having originally studied a in HNC Computing at Bedford College, I decided to focus my learning into Data Analysis to further develop my skills in a growing and challenging industry. Below you will find a variety of projects that I have completed as part of my Data Analyst training course, as well as any side projects I have done for my own personal knowledge or interest, as well as details to contact me further about any enquiries.
+Having originally studied a HNC in Computing at Bedford College, I decided to focus my learning into Data Analysis to further develop my skills in a growing and challenging industry. Below you will find a variety of projects that I have completed as part of my Data Analyst training course, as well as any side projects I have done for my own personal knowledge or interest, as well as details to contact me further about any enquiries.
 
 ---
 
@@ -13,9 +13,12 @@ Having originally studied a in HNC Computing at Bedford College, I decided to fo
 
  ---
 
-### Training Projects: 
-**Retail Sales Breakdown**
-**Using Targeted Analytics to Understand Customer Trends**
+### Training Projects:
+
+---
+### Excel
+**Retail Sales Breakdown** <br/>
+*Using Targeted Analytics to Understand Customer Trends* <br/>
 Using the a retail sales dataset, we have a collection of listed sales for customers of a range of ages, across three different categories of product. Here, using a combination of conditional formatting and a SumIf statement, we are able to see the highest and lowest selling product categories across each age range, as well as the total sales figure from those categories. This would allow us to more directly promote specific products to specific age ranges, as we can tell they are more popular for that group.
 
 For creating these tables and formatting, there are a few steps I needed to take first before even beginning with the end product.:
@@ -39,7 +42,25 @@ The slicers created allow us to filter these charts based on:
 
 ---
 
-(Moving on to more complex) Using Tableau we were able to inspect and clean a large dataset of Health statistics from aroudn the world. Tableau allowed us to create a wide variety of different visuals to help better understand this data without having to go through the thousands of rows from the dataset. Not only are these visuals useful for understanding the raw data at a glance, they are also live, meaning that any changes or updates made to the dataset will still be reflected in the visuals without needing to alter them. You can access the live dashboard here now: [Live Tableau Dashboard](https://public.tableau.com/app/profile/ryan.johns7164/viz/GlobalHealthInsights_17803264327980/GlobalHealthDashboard)
+### Tableau <br/>
+**Global Health Insights**<br/>
+*A Visual Summary of World Health* <br/>
+
+With this project, I have created a variety of different visualisations using Tableau to give a easily understood summary of different trends relating to global health statistics. Using datasets like this can give a good general understanding of certain aspects of life and health in different parts of the world, without having to go into deep research on each area directly. 
+
+Using Tableau we were able to inspect and clean a large dataset for our use. With Tableau's expanded ability to to create a wide variety of different visuals to help better understand this data, we have a lot more options in how we can display it. With graphs displaying information such as life expectancy per continent and the top 5 countries with the highest average life expectancy over a 20 year timeframe, we can use these graphs to start drawing conclusions or points for further analysis.
+
+Similarly to with Excel, we have a set process for creating these types of Charts and Graphs:
+- Importing the raw dataset
+- Cleaning the dataset and checking for any issues with datatypes
+- Deciding on what columns of information to analyse
+- Created a Line Graph, showing the change in top 5 countries with the highest average life expectancy over a 20 year timeframe
+- Created a Bar Chart, showing the average life expectancy per continent.
+- Created a Pie Chart, showing the Gender ratio of a specific country.
+- Created a Scatter Graph, showing the relation between average BMI in countries Vs. their average life expectancy.
+- Created a Geographical Heat Map, showing the average blood pressure per country via a colour gradient
+
+Not only are these visuals useful for understanding the raw data at a glance, they are also live, meaning that any changes or updates made to the dataset will still be reflected in the visuals without needing to alter them. You can access the live dashboard here now: [Live Global Health Dashboard](https://public.tableau.com/app/profile/ryan.johns7164/viz/GlobalHealthInsights_17803264327980/GlobalHealthDashboard)
 
 <img src="https://github.com/RJohns-DA/Data-Analysis-Portfolio/blob/6d080be1a2868e398af01c09daa18bd241cc91fe/TableauCharts.png" alt="Health Insights Dashboard" style="width:100%; height:auto;">
 
