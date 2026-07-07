@@ -1,5 +1,6 @@
+<img src="https://github.com/RJohns-DA/Data-Analysis-Portfolio/blob/0d6c487f1a815698f600be4b5a487c796b5a5731/PictureBanner.png" alt="Profile Banner" style="width:100%; height:auto;"><br/>
 # Ryan Johns, Data Analyst Portfolio
-Having originally studied HNC Computing at Bedford College, I decided to focus my learning into Data Analysis to further develop my skills in a growing and challenging industry. Below you will find a variety of projects that I have completed as part of my Data Analyst training course, as well as any side projects I have done for my own personal knowledge or interest, as well as details to contact me further about any enquiries.
+Having originally studied a in HNC Computing at Bedford College, I decided to focus my learning into Data Analysis to further develop my skills in a growing and challenging industry. Below you will find a variety of projects that I have completed as part of my Data Analyst training course, as well as any side projects I have done for my own personal knowledge or interest, as well as details to contact me further about any enquiries.
 
 ---
 
