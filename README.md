@@ -62,7 +62,7 @@ Similarly to with Excel, we have a set process for creating these types of Chart
 
 Not only are these visuals useful for understanding the raw data at a glance, they are also live, meaning that any changes or updates made to the dataset will still be reflected in the visuals without needing to alter them. You can access the live dashboard here now: [Live Global Health Dashboard](https://public.tableau.com/app/profile/ryan.johns7164/viz/GlobalHealthInsights_17803264327980/GlobalHealthDashboard)
 
-<img src="https://github.com/RJohns-DA/Data-Analysis-Portfolio/blob/6d080be1a2868e398af01c09daa18bd241cc91fe/TableauCharts.png" alt="Health Insights Dashboard" style="width:100%; height:auto;">
+<img src="https://github.com/RJohns-DA/Data-Analysis-Portfolio/blob/aeaf831880d064b19d056d4704ec24028944100a/Images/TableauCharts.png" alt="Health Insights Dashboard" style="width:100%; height:auto;">
 
 
 - [Power BI] 
