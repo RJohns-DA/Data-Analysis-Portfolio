@@ -1,5 +1,5 @@
-# Welcome, my Name is Ryan,
-Below, you will find a variety of projects that I have completed as part of my Data Analyst training course, as well as any side projects I have done for my own personal knowledge.
+# Ryan Johns, Data Analyst Protfolio
+Welcome. Below, you will find a variety of projects that I have completed as part of my Data Analyst training course, as well as any side projects I have done for my own personal knowledge.
 
 ---
 
