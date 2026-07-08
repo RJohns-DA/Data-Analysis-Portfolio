@@ -69,8 +69,16 @@ The specific difficulties with this dataset came more from deciding on the best 
 
 <img src="Images/TableauCharts.png" alt="Health Insights Dashboard" style="width:100%; height:auto;">
 
+---
 
-- [Power BI] 
+### Power Bi <br/>
+**European Sales Figures**<br/>
+*Exploring Relational Databases through Power Bi Visuals* <br/>
+
+Here, we have a collection of sales data covering the entirety of Europe, for furniture, technology and office supplies. We also have a much broader range of details compared to our porevious sets, now including map data for specific cities through longitude and latitude coordinates, as well as further details on the particulars of the sale itself, such as any discounts being applied per sale, or the shipping date and method. 
+
+Compared to Excel and Tableau, we now clean and transform a lot of our data using Power Query, as it allows a much more thorough and in-depth understanding of the quality of our data prior to importing it into Power Bi and creating our relationships. We also start to implement methods of anonymising specific data, such as removing the details of the "Custoemr Name" column here, as it is unnecessary for our analysis and contains sensitive customer information.
+
 
 
 [Live Sales Data Dashboard](https://app.powerbi.com/groups/me/reports/512b7816-5fa6-4572-87ad-6f32f802d764/b91c20d19db3bb06e33e?experience=power-bi)
