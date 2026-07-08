@@ -63,7 +63,7 @@ Similarly to with Excel, we have a set process for creating these types of Chart
 
 With the use of a dashboard, we have the entire summary of work all in one place, allowing for quick understanding of the required information. The dashboard is also live, meaning that any changes or updates made to the dataset will still be reflected in the visuals without needing to alter them. We can also add new data into the source if needed, to further develop the range that it covers.
 
-You can access the live dashboard here now: [Live Global Health Dashboard](https://public.tableau.com/app/profile/ryan.johns7164/viz/GlobalHealthInsights_17803264327980/GlobalHealthDashboard)
+You can access the live dashboard here now: [Live Global Health Dashboard](https://public.tableau.com/views/GlobalHealthInsights_17803264327980/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The specific difficulties with this dataset came more from deciding on the best method to display the data. Even after choosing what type of graph or chart would be best to showcase the desired analysis, each axis needs to be looked at in terms of how to interpret the data being used. While an average can be used in a majority of cases, there are several as well that requrie a total sum instead, and deciding how and when to use these particular types of filters can massively change how the data is represented.
 
