@@ -72,6 +72,10 @@ The specific difficulties with this dataset came more from deciding on the best 
 
 - [Power BI] 
 
+
+[Live Sales Data Dashboard](https://app.powerbi.com/groups/me/reports/512b7816-5fa6-4572-87ad-6f32f802d764/b91c20d19db3bb06e33e?experience=power-bi)
+<img src="Images/BiDashboard.png" alt="Power Bi Sales Dashboard" style="width:100%; height:auto;">
+
 - [SQL] 
 
 - [Python] 
