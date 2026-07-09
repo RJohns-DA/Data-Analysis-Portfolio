@@ -103,9 +103,9 @@ With SQL, we have access to one of the best industry standards in database creat
 
 With these details, we now know the basics of the information we will need to store, and can start building a basic Entity Relationship Diagram (ERD) to explain each tables headings, datatypes and relationships.
 
+<img src="Images/SQL_ERD.png" alt="Power Bi Sales Dashboard" style="width:100%; height:auto;"> <br/>
 
-
- 
+ With the ERD designed, we can start to write the code to create the tables, as well as defining the relationships through the primary and foreign keys.
 
 
 
