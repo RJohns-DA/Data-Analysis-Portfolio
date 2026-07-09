@@ -9,9 +9,9 @@ For contact details and further career information, you can find my Linkedin pag
 ### Trained in: 
 
 - **Excel and data basics**: Manipulating, transforming and cleaning datasets in Excel, as well as creating PivotTables amd PivotCharts with interactive slicers. [View My Excel Projects Here](/Excel.md)
-- **Python via Google Colab**: Using Python code and NumPy to perform logic functions, Pandas for manipulation of dataframes and CSV files, and Matplotlib and Seaborn for Data Visualisation.
-- **SQL / MySQL Workbench**: Creation and management of an SQL Database through Workbench, as well as running queries and transformations of data using SQL code. 
-- **Tableau / Power BI dashboards**: Creating Visualisation of queries to answer questions about the data in a concise, easy to understand format.
+- **Python via Google Colab**: Using Python code and NumPy to perform logic functions, Pandas for manipulation of dataframes and CSV files, and Matplotlib and Seaborn for Data Visualisation. [View My Python Projects Here](/Python.md)
+- **SQL / MySQL Workbench**: Creation and management of an SQL Database through Workbench, as well as running queries and transformations of data using SQL code. [View My SQL Projects Here](/SQL.md)
+- **Tableau / Power BI dashboards**: Creating Visualisation of queries to answer questions about the data in a concise, easy to understand format. [View My Tableau Projects Here](/Tableau.md) or [My Power Bi Projects here](/PowerBi.md)
 
  ---
 
